@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah
 - 👀 I’m interested in Web application development. 
-- 💻 I'm currently working for Tata Consultancy Services as a System Programmer
+- 💻 I'm currently working for Tata Consultancy Services as a System Programmer as a Core Java Developer
 - 🌱 I’m currently learning React JS, Node JS and Mongo DB
 - 💞️ I’m looking to collaborate on React projects.
 - 📫 Reach me @a_bdullah1_0 on instagram
